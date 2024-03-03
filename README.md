@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fooderlich
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Fooderlich-
+Fooderlich app for ITCC 116
+>>>>>>> 04249a52c791b85016c72ea3c738b67ce1ac0fa4
